@@ -1,0 +1,33 @@
+.App {
+  font-family: Arial, sans-serif;
+  padding: 2rem;
+  max-width: 600px;
+  margin: auto;
+}
+
+input[type="file"] {
+  margin-top: 1rem;
+}
+
+button {
+  margin-top: 1rem;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+.matches {
+  margin-top: 2rem;
+}
+
+.job-card {
+  border: 1px solid #ccc;
+  padding: 1rem;
+  border-radius: 10px;
+  margin-bottom: 1rem;
+  background: #f9f9f9;
+}
+
+.error {
+  color: red;
+  margin-top: 1rem;
+}

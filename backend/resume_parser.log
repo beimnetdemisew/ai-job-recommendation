@@ -1,0 +1,1520 @@
+2025-04-20 05:47:00,486 - INFO - Use pytorch device_name: cpu
+2025-04-20 05:47:00,486 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 05:47:10,358 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-20 05:47:10,358 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-20 05:47:10,363 - INFO -  * Restarting with stat
+2025-04-20 05:47:53,405 - INFO - Use pytorch device_name: cpu
+2025-04-20 05:47:53,405 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 05:47:58,606 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-20 05:47:58,606 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-20 05:47:58,614 - INFO -  * Restarting with stat
+2025-04-20 05:48:18,765 - INFO - Use pytorch device_name: cpu
+2025-04-20 05:48:18,765 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 05:48:24,046 - WARNING -  * Debugger is active!
+2025-04-20 05:48:24,073 - INFO -  * Debugger PIN: 112-687-227
+2025-04-20 05:51:14,664 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-20 05:51:16,288 - INFO -  * Restarting with stat
+2025-04-20 05:51:38,864 - INFO - Use pytorch device_name: cpu
+2025-04-20 05:51:38,864 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 05:51:44,371 - WARNING -  * Debugger is active!
+2025-04-20 05:51:44,410 - INFO -  * Debugger PIN: 112-687-227
+2025-04-20 06:02:02,768 - ERROR - Error during resume processing: [Errno 2] No such file or directory: 'uploads\\resume (2).pdf'
+2025-04-20 06:02:02,815 - INFO - 127.0.0.1 - - [20/Apr/2025 06:02:02] "[35m[1mPOST /process_resume HTTP/1.1[0m" 500 -
+2025-04-20 06:02:04,770 - ERROR - Error during resume processing: [Errno 2] No such file or directory: 'uploads\\resume (2).pdf'
+2025-04-20 06:02:04,770 - INFO - 127.0.0.1 - - [20/Apr/2025 06:02:04] "[35m[1mPOST /process_resume HTTP/1.1[0m" 500 -
+2025-04-20 06:03:13,741 - ERROR - Error during resume processing: [Errno 2] No such file or directory: 'uploads\\resume (2).pdf'
+2025-04-20 06:03:13,741 - INFO - 127.0.0.1 - - [20/Apr/2025 06:03:13] "[35m[1mPOST /process_resume HTTP/1.1[0m" 500 -
+2025-04-20 06:03:15,349 - ERROR - Error during resume processing: [Errno 2] No such file or directory: 'uploads\\resume (2).pdf'
+2025-04-20 06:03:15,357 - INFO - 127.0.0.1 - - [20/Apr/2025 06:03:15] "[35m[1mPOST /process_resume HTTP/1.1[0m" 500 -
+2025-04-20 06:04:22,812 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-20 06:04:30,894 - INFO -  * Restarting with stat
+2025-04-20 06:04:53,376 - INFO - Use pytorch device_name: cpu
+2025-04-20 06:04:53,376 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-20 06:04:59,283 - WARNING -  * Debugger is active!
+2025-04-20 06:04:59,309 - INFO -  * Debugger PIN: 112-687-227
+2025-04-20 06:05:30,101 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-20 06:05:31,666 - INFO -  * Restarting with stat
+2025-04-22 02:29:04,613 - INFO - Use pytorch device_name: cpu
+2025-04-22 02:29:04,613 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 02:29:08,912 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-22 02:29:08,912 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-22 02:29:08,915 - INFO -  * Restarting with stat
+2025-04-22 02:29:19,679 - INFO - Use pytorch device_name: cpu
+2025-04-22 02:29:19,679 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 02:29:22,969 - WARNING -  * Debugger is active!
+2025-04-22 02:29:22,974 - INFO -  * Debugger PIN: 112-687-227
+2025-04-22 02:31:45,580 - ERROR - Error during resume processing: [Errno 2] No such file or directory: 'uploads\\resume (2).pdf'
+2025-04-22 02:31:45,580 - INFO - 127.0.0.1 - - [22/Apr/2025 02:31:45] "[35m[1mPOST /process_resume HTTP/1.1[0m" 500 -
+2025-04-22 02:35:12,471 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-22 02:35:13,635 - INFO -  * Restarting with stat
+2025-04-22 02:35:24,946 - INFO - Use pytorch device_name: cpu
+2025-04-22 02:35:24,946 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 02:35:29,270 - WARNING -  * Debugger is active!
+2025-04-22 02:35:29,287 - INFO -  * Debugger PIN: 112-687-227
+2025-04-22 02:35:30,965 - INFO - 127.0.0.1 - - [22/Apr/2025 02:35:30] "[33mGET / HTTP/1.1[0m" 404 -
+2025-04-22 02:35:34,564 - INFO - 127.0.0.1 - - [22/Apr/2025 02:35:34] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-22 02:41:22,996 - INFO - Use pytorch device_name: cpu
+2025-04-22 02:41:22,996 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 02:41:27,502 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-22 02:41:27,502 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-22 02:41:27,505 - INFO -  * Restarting with stat
+2025-04-22 02:41:37,763 - INFO - Use pytorch device_name: cpu
+2025-04-22 02:41:37,763 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 02:41:41,457 - WARNING -  * Debugger is active!
+2025-04-22 02:41:41,457 - INFO -  * Debugger PIN: 112-687-227
+2025-04-22 02:42:14,193 - ERROR - Error during resume processing: name 'process_resume' is not defined
+2025-04-22 02:42:14,193 - INFO - 127.0.0.1 - - [22/Apr/2025 02:42:14] "[35m[1mPOST /process_resume HTTP/1.1[0m" 500 -
+2025-04-22 02:42:15,384 - ERROR - Error during resume processing: name 'process_resume' is not defined
+2025-04-22 02:42:15,385 - INFO - 127.0.0.1 - - [22/Apr/2025 02:42:15] "[35m[1mPOST /process_resume HTTP/1.1[0m" 500 -
+2025-04-22 02:42:16,559 - ERROR - Error during resume processing: name 'process_resume' is not defined
+2025-04-22 02:42:16,559 - INFO - 127.0.0.1 - - [22/Apr/2025 02:42:16] "[35m[1mPOST /process_resume HTTP/1.1[0m" 500 -
+2025-04-22 02:42:16,771 - ERROR - Error during resume processing: name 'process_resume' is not defined
+2025-04-22 02:42:16,773 - INFO - 127.0.0.1 - - [22/Apr/2025 02:42:16] "[35m[1mPOST /process_resume HTTP/1.1[0m" 500 -
+2025-04-22 02:44:07,242 - ERROR - Error during resume processing: name 'process_resume' is not defined
+2025-04-22 02:44:07,242 - INFO - 127.0.0.1 - - [22/Apr/2025 02:44:07] "[35m[1mPOST /process_resume HTTP/1.1[0m" 500 -
+2025-04-22 02:45:31,007 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-22 02:45:31,031 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-22 02:45:32,373 - INFO -  * Restarting with stat
+2025-04-22 02:45:32,383 - INFO -  * Restarting with stat
+2025-04-22 02:45:45,682 - INFO - Use pytorch device_name: cpu
+2025-04-22 02:45:45,682 - INFO - Use pytorch device_name: cpu
+2025-04-22 02:45:45,682 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 02:45:52,850 - WARNING -  * Debugger is active!
+2025-04-22 02:45:52,855 - INFO -  * Debugger PIN: 112-687-227
+2025-04-22 02:45:54,805 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-22 02:45:55,931 - INFO -  * Restarting with stat
+2025-04-22 02:46:05,069 - INFO - Use pytorch device_name: cpu
+2025-04-22 02:46:05,069 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 02:46:09,648 - WARNING -  * Debugger is active!
+2025-04-22 02:46:09,659 - INFO -  * Debugger PIN: 112-687-227
+2025-04-22 02:46:35,108 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-22 02:46:35,578 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-22 02:46:36,049 - INFO -  * Restarting with stat
+2025-04-22 02:46:36,530 - INFO -  * Restarting with stat
+2025-04-22 02:46:47,756 - INFO - Use pytorch device_name: cpu
+2025-04-22 02:46:47,757 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 02:46:48,163 - INFO - Use pytorch device_name: cpu
+2025-04-22 02:46:48,163 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 02:46:51,498 - WARNING -  * Debugger is active!
+2025-04-22 02:46:51,517 - INFO -  * Debugger PIN: 112-687-227
+2025-04-22 02:46:51,537 - WARNING -  * Debugger is active!
+2025-04-22 02:46:51,553 - INFO -  * Debugger PIN: 112-687-227
+2025-04-22 02:47:40,470 - INFO - Use pytorch device_name: cpu
+2025-04-22 02:47:40,470 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 02:47:44,548 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-22 02:47:44,549 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-22 02:47:44,552 - INFO -  * Restarting with stat
+2025-04-22 02:47:54,590 - INFO - Use pytorch device_name: cpu
+2025-04-22 02:47:54,590 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 02:47:54,959 - INFO - 127.0.0.1 - - [22/Apr/2025 02:47:54] "[33mGET / HTTP/1.1[0m" 404 -
+2025-04-22 02:47:58,179 - INFO - 127.0.0.1 - - [22/Apr/2025 02:47:58] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-04-22 02:47:58,940 - WARNING -  * Debugger is active!
+2025-04-22 02:47:58,955 - INFO -  * Debugger PIN: 112-687-227
+2025-04-22 02:48:14,446 - ERROR - Error during resume processing: name 'process_resume' is not defined
+2025-04-22 02:48:14,446 - INFO - 127.0.0.1 - - [22/Apr/2025 02:48:14] "[35m[1mPOST /process_resume HTTP/1.1[0m" 500 -
+2025-04-22 02:48:57,858 - ERROR - Error during resume processing: name 'process_resume' is not defined
+2025-04-22 02:48:57,863 - INFO - 127.0.0.1 - - [22/Apr/2025 02:48:57] "[35m[1mPOST /process_resume HTTP/1.1[0m" 500 -
+2025-04-22 02:48:59,065 - ERROR - Error during resume processing: name 'process_resume' is not defined
+2025-04-22 02:48:59,069 - INFO - 127.0.0.1 - - [22/Apr/2025 02:48:59] "[35m[1mPOST /process_resume HTTP/1.1[0m" 500 -
+2025-04-22 02:54:21,213 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-22 02:54:23,939 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-22 02:54:24,432 - INFO -  * Restarting with stat
+2025-04-22 02:54:26,403 - INFO -  * Restarting with stat
+2025-04-22 02:54:38,778 - INFO - Use pytorch device_name: cpu
+2025-04-22 02:54:38,779 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 02:54:43,031 - WARNING -  * Debugger is active!
+2025-04-22 02:54:43,039 - INFO -  * Debugger PIN: 112-687-227
+2025-04-22 02:54:48,052 - INFO - Use pytorch device_name: cpu
+2025-04-22 02:54:48,052 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 02:54:51,796 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-22 02:54:51,796 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-22 02:54:51,810 - INFO -  * Restarting with stat
+2025-04-22 02:55:04,618 - INFO - Use pytorch device_name: cpu
+2025-04-22 02:55:04,618 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 02:55:08,527 - WARNING -  * Debugger is active!
+2025-04-22 02:55:08,539 - INFO -  * Debugger PIN: 112-687-227
+2025-04-22 02:56:30,205 - INFO - 127.0.0.1 - - [22/Apr/2025 02:56:30] "POST /process_resume HTTP/1.1" 200 -
+2025-04-22 02:58:58,367 - INFO - 127.0.0.1 - - [22/Apr/2025 02:58:58] "POST /process_resume HTTP/1.1" 200 -
+2025-04-22 02:59:06,198 - INFO - 127.0.0.1 - - [22/Apr/2025 02:59:06] "POST /process_resume HTTP/1.1" 200 -
+2025-04-22 03:04:15,750 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-22 03:04:15,837 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-22 03:04:17,405 - INFO -  * Restarting with stat
+2025-04-22 03:04:18,709 - INFO -  * Restarting with stat
+2025-04-22 03:04:29,223 - INFO - Use pytorch device_name: cpu
+2025-04-22 03:04:29,223 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 03:04:29,258 - INFO - Use pytorch device_name: cpu
+2025-04-22 03:04:29,258 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 03:05:40,720 - INFO - Use pytorch device_name: cpu
+2025-04-22 03:05:40,720 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 03:08:46,823 - INFO - Use pytorch device_name: cpu
+2025-04-22 03:08:46,823 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 03:08:50,520 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-22 03:08:50,520 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-22 03:08:50,523 - INFO -  * Restarting with stat
+2025-04-22 03:08:58,575 - INFO - Use pytorch device_name: cpu
+2025-04-22 03:08:58,576 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 03:09:02,269 - WARNING -  * Debugger is active!
+2025-04-22 03:09:02,285 - INFO -  * Debugger PIN: 112-687-227
+2025-04-22 03:09:26,200 - INFO - Saved resume: resume (2).pdf
+2025-04-22 03:09:26,200 - INFO - 127.0.0.1 - - [22/Apr/2025 03:09:26] "POST /process_resume HTTP/1.1" 200 -
+2025-04-22 03:11:16,328 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-22 03:11:17,540 - INFO -  * Restarting with stat
+2025-04-22 03:11:27,975 - INFO - Use pytorch device_name: cpu
+2025-04-22 03:11:27,975 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 03:11:33,050 - WARNING -  * Debugger is active!
+2025-04-22 03:11:33,059 - INFO -  * Debugger PIN: 112-687-227
+2025-04-22 03:11:52,565 - ERROR - Error during resume processing: name 'process_resume' is not defined
+2025-04-22 03:11:52,566 - INFO - 127.0.0.1 - - [22/Apr/2025 03:11:52] "[35m[1mPOST /process_resume HTTP/1.1[0m" 500 -
+2025-04-22 03:13:50,530 - ERROR - Error during resume processing: name 'process_resume' is not defined
+2025-04-22 03:13:50,530 - INFO - 127.0.0.1 - - [22/Apr/2025 03:13:50] "[35m[1mPOST /process_resume HTTP/1.1[0m" 500 -
+2025-04-22 03:17:12,423 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-22 03:17:13,696 - INFO -  * Restarting with stat
+2025-04-22 03:17:23,498 - INFO - Use pytorch device_name: cpu
+2025-04-22 03:17:23,498 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 03:17:27,739 - WARNING -  * Debugger is active!
+2025-04-22 03:17:27,752 - INFO -  * Debugger PIN: 112-687-227
+2025-04-22 03:18:33,662 - INFO - Extracted entities: {'skills': ['java', 'react', 'c++', 'css', 'html', 'javascript', 'data analysis'], 'experience': [], 'education': ['BAHIR DAR UNIVERSITY\nComputer Science'], 'location': []}
+2025-04-22 03:18:33,662 - ERROR - Error during resume processing: name 'save_to_database' is not defined
+2025-04-22 03:18:33,672 - INFO - 127.0.0.1 - - [22/Apr/2025 03:18:33] "[35m[1mPOST /process_resume HTTP/1.1[0m" 500 -
+2025-04-22 03:21:52,922 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-22 03:21:54,711 - INFO -  * Restarting with stat
+2025-04-22 03:22:10,643 - INFO - Use pytorch device_name: cpu
+2025-04-22 03:22:10,643 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 03:22:15,179 - WARNING -  * Debugger is active!
+2025-04-22 03:22:15,211 - INFO -  * Debugger PIN: 112-687-227
+2025-04-22 03:23:06,336 - INFO - Extracted entities: {'skills': ['javascript', 'css', 'react', 'java', 'html', 'data analysis', 'c++'], 'experience': [], 'education': ['BAHIR DAR UNIVERSITY\nComputer Science'], 'location': []}
+2025-04-22 03:23:06,398 - INFO - Saved resume: resume (2).pdf
+2025-04-22 03:23:06,398 - INFO - 127.0.0.1 - - [22/Apr/2025 03:23:06] "POST /process_resume HTTP/1.1" 200 -
+2025-04-22 03:31:42,169 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-22 03:31:43,728 - INFO -  * Restarting with stat
+2025-04-22 03:32:03,498 - INFO - Use pytorch device_name: cpu
+2025-04-22 03:32:03,498 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 03:32:10,830 - WARNING -  * Debugger is active!
+2025-04-22 03:32:10,845 - INFO -  * Debugger PIN: 112-687-227
+2025-04-22 03:32:29,729 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\job_matcher_api.py', reloading
+2025-04-22 03:32:31,782 - INFO -  * Restarting with stat
+2025-04-22 03:32:49,847 - INFO - Use pytorch device_name: cpu
+2025-04-22 03:32:49,847 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 03:32:53,625 - WARNING -  * Debugger is active!
+2025-04-22 03:32:53,625 - INFO -  * Debugger PIN: 112-687-227
+2025-04-22 03:42:07,344 - INFO - Extracted entities: {'skills': ['react', 'java', 'html', 'c++', 'data analysis', 'css', 'javascript'], 'experience': [], 'education': ['BAHIR DAR UNIVERSITY\nComputer Science'], 'location': []}
+2025-04-22 03:42:07,360 - INFO - Duplicate resume: resume (2).pdf
+2025-04-22 03:42:07,376 - INFO - 127.0.0.1 - - [22/Apr/2025 03:42:07] "[35m[1mPOST /process_resume HTTP/1.1[0m" 500 -
+2025-04-22 03:43:27,923 - INFO - Use pytorch device_name: cpu
+2025-04-22 03:43:27,923 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 03:43:32,866 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-22 03:43:32,869 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-22 03:43:32,878 - INFO -  * Restarting with stat
+2025-04-22 03:43:49,370 - INFO - Use pytorch device_name: cpu
+2025-04-22 03:43:49,370 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 03:43:53,786 - WARNING -  * Debugger is active!
+2025-04-22 03:43:53,820 - INFO -  * Debugger PIN: 112-687-227
+2025-04-22 03:44:18,129 - INFO - Extracted entities: {'skills': ['html', 'javascript', 'c++', 'data analysis', 'react', 'css', 'java'], 'experience': [], 'education': ['BAHIR DAR UNIVERSITY\nComputer Science'], 'location': []}
+2025-04-22 03:44:18,192 - INFO - Saved resume: resume (2).pdf
+2025-04-22 03:44:18,192 - INFO - 127.0.0.1 - - [22/Apr/2025 03:44:18] "POST /process_resume HTTP/1.1" 200 -
+2025-04-22 04:11:41,419 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-22 04:11:44,040 - INFO -  * Restarting with stat
+2025-04-22 04:12:05,885 - INFO - Use pytorch device_name: cpu
+2025-04-22 04:12:05,885 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 04:12:14,508 - WARNING -  * Debugger is active!
+2025-04-22 04:12:14,526 - INFO -  * Debugger PIN: 112-687-227
+2025-04-22 04:13:51,559 - INFO - Extracted entities: {'skills': ['data analysis', 'react', 'c++', 'css', 'java', 'javascript', 'html'], 'experience': [], 'education': ['BAHIR DAR UNIVERSITY\nComputer Science'], 'location': []}
+2025-04-22 04:13:51,624 - INFO - Saved resume: resume (2).pdf
+2025-04-22 04:13:51,624 - INFO - 127.0.0.1 - - [22/Apr/2025 04:13:51] "POST /process_resume HTTP/1.1" 200 -
+2025-04-22 04:26:13,501 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-22 04:26:15,196 - INFO -  * Restarting with stat
+2025-04-22 04:26:38,364 - INFO - Use pytorch device_name: cpu
+2025-04-22 04:26:38,364 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 04:26:45,761 - WARNING -  * Debugger is active!
+2025-04-22 04:26:45,802 - INFO -  * Debugger PIN: 112-687-227
+2025-04-22 04:27:16,474 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-22 04:27:18,599 - INFO -  * Restarting with stat
+2025-04-22 04:27:36,066 - INFO - Use pytorch device_name: cpu
+2025-04-22 04:27:36,066 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 04:27:39,983 - WARNING -  * Debugger is active!
+2025-04-22 04:27:40,015 - INFO -  * Debugger PIN: 112-687-227
+2025-04-22 04:28:34,074 - INFO - 127.0.0.1 - - [22/Apr/2025 04:28:34] "[33mPOST /upload_resume HTTP/1.1[0m" 404 -
+2025-04-22 04:31:52,215 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-22 04:31:53,661 - INFO -  * Restarting with stat
+2025-04-22 04:32:19,582 - INFO - Use pytorch device_name: cpu
+2025-04-22 04:32:19,582 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 04:32:27,613 - WARNING -  * Debugger is active!
+2025-04-22 04:32:27,629 - INFO -  * Debugger PIN: 112-687-227
+2025-04-22 04:32:31,138 - INFO - 127.0.0.1 - - [22/Apr/2025 04:32:31] "[33mPOST /upload_resume HTTP/1.1[0m" 404 -
+2025-04-22 04:35:52,135 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-22 04:35:54,085 - INFO -  * Restarting with stat
+2025-04-22 04:36:17,030 - INFO - Use pytorch device_name: cpu
+2025-04-22 04:36:17,030 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 04:36:23,958 - WARNING -  * Debugger is active!
+2025-04-22 04:36:23,992 - INFO -  * Debugger PIN: 112-687-227
+2025-04-22 04:37:12,029 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\job_matcher_api.py', reloading
+2025-04-22 04:37:13,486 - INFO -  * Restarting with stat
+2025-04-22 04:37:29,469 - INFO - Use pytorch device_name: cpu
+2025-04-22 04:37:29,469 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 04:37:33,148 - WARNING -  * Debugger is active!
+2025-04-22 04:37:33,179 - INFO -  * Debugger PIN: 112-687-227
+2025-04-22 04:38:05,067 - INFO - Extracted entities: {'skills': ['javascript', 'data analysis', 'css', 'html', 'java', 'c++', 'react'], 'experience': [], 'education': ['BAHIR DAR UNIVERSITY\nComputer Science'], 'location': []}
+2025-04-22 04:38:05,115 - INFO - Saved resume: resume (2).pdf
+2025-04-22 04:38:05,131 - INFO - 127.0.0.1 - - [22/Apr/2025 04:38:05] "POST /process_resume HTTP/1.1" 200 -
+2025-04-22 04:58:09,783 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-22 04:58:12,281 - INFO -  * Restarting with stat
+2025-04-22 04:58:34,380 - INFO - Use pytorch device_name: cpu
+2025-04-22 04:58:34,380 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 04:58:40,057 - WARNING -  * Debugger is active!
+2025-04-22 04:58:40,079 - INFO -  * Debugger PIN: 112-687-227
+2025-04-22 05:00:41,244 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-22 05:00:42,914 - INFO -  * Restarting with stat
+2025-04-22 05:01:04,367 - INFO - Use pytorch device_name: cpu
+2025-04-22 05:01:04,367 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 05:01:08,598 - WARNING -  * Debugger is active!
+2025-04-22 05:01:08,619 - INFO -  * Debugger PIN: 112-687-227
+2025-04-22 05:04:46,400 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-22 05:04:48,286 - INFO -  * Restarting with stat
+2025-04-22 05:10:12,622 - INFO - Use pytorch device_name: cpu
+2025-04-22 05:10:12,630 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 05:10:16,909 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-22 05:10:16,909 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-22 05:10:16,917 - INFO -  * Restarting with stat
+2025-04-22 05:10:29,822 - INFO - Use pytorch device_name: cpu
+2025-04-22 05:10:29,822 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 05:10:34,794 - WARNING -  * Debugger is active!
+2025-04-22 05:10:34,811 - INFO -  * Debugger PIN: 112-687-227
+2025-04-22 05:11:36,807 - INFO - Extracted entities: {'skills': ['html', 'c++', 'java', 'javascript', 'css', 'react', 'data analysis'], 'experience': [], 'education': ['BAHIR DAR UNIVERSITY\nComputer Science'], 'location': []}
+2025-04-22 05:11:36,902 - INFO - Saved resume: resume (2).pdf
+2025-04-22 05:11:36,902 - INFO - 127.0.0.1 - - [22/Apr/2025 05:11:36] "POST /process_resume HTTP/1.1" 200 -
+2025-04-22 05:16:53,701 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-22 05:16:56,472 - INFO -  * Restarting with stat
+2025-04-22 05:17:17,584 - INFO - Use pytorch device_name: cpu
+2025-04-22 05:17:17,584 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 05:17:25,557 - WARNING -  * Debugger is active!
+2025-04-22 05:17:25,586 - INFO -  * Debugger PIN: 112-687-227
+2025-04-22 05:18:56,333 - INFO - Extracted entities: {'skills': ['java', 'css', 'html', 'react', 'data analysis', 'javascript', 'c++'], 'experience': [], 'education': ['BAHIR DAR UNIVERSITY\nComputer Science'], 'location': []}
+2025-04-22 05:18:56,395 - INFO - Saved resume: resume (2).pdf
+2025-04-22 05:18:56,395 - INFO - 127.0.0.1 - - [22/Apr/2025 05:18:56] "POST /process_resume HTTP/1.1" 200 -
+2025-04-22 05:23:49,847 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-22 05:23:51,297 - INFO -  * Restarting with stat
+2025-04-22 05:24:13,495 - INFO - Use pytorch device_name: cpu
+2025-04-22 05:24:13,495 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-22 05:24:19,005 - WARNING -  * Debugger is active!
+2025-04-22 05:24:19,044 - INFO -  * Debugger PIN: 112-687-227
+2025-04-22 05:25:48,649 - INFO - 127.0.0.1 - - [22/Apr/2025 05:25:48] "[33mPOST /upload_resume HTTP/1.1[0m" 404 -
+2025-04-22 05:26:43,929 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-22 05:26:48,356 - INFO -  * Restarting with stat
+2025-04-24 04:35:58,504 - INFO - Use pytorch device_name: cpu
+2025-04-24 04:35:58,504 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 04:36:03,783 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-24 04:36:03,783 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 04:36:03,793 - INFO -  * Restarting with stat
+2025-04-24 04:36:17,996 - INFO - Use pytorch device_name: cpu
+2025-04-24 04:36:17,996 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 04:36:21,843 - WARNING -  * Debugger is active!
+2025-04-24 04:36:21,863 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 04:38:07,252 - INFO - 127.0.0.1 - - [24/Apr/2025 04:38:07] "[33mPOST /upload_resume HTTP/1.1[0m" 404 -
+2025-04-24 04:38:13,306 - INFO - 127.0.0.1 - - [24/Apr/2025 04:38:13] "[33mPOST /upload_resume HTTP/1.1[0m" 404 -
+2025-04-24 04:39:21,671 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-24 04:39:23,676 - INFO -  * Restarting with stat
+2025-04-24 04:39:45,999 - INFO - Use pytorch device_name: cpu
+2025-04-24 04:39:45,999 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 04:39:49,895 - WARNING -  * Debugger is active!
+2025-04-24 04:39:49,915 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 04:40:16,778 - INFO - 127.0.0.1 - - [24/Apr/2025 04:40:16] "[33mPOST /upload_resume HTTP/1.1[0m" 404 -
+2025-04-24 04:44:20,245 - INFO - Use pytorch device_name: cpu
+2025-04-24 04:44:20,245 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 04:44:26,033 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-24 04:44:26,033 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 04:44:26,045 - INFO -  * Restarting with stat
+2025-04-24 04:44:47,013 - INFO - Use pytorch device_name: cpu
+2025-04-24 04:44:47,015 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 04:44:51,619 - WARNING -  * Debugger is active!
+2025-04-24 04:44:51,643 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 04:57:57,495 - INFO - 127.0.0.1 - - [24/Apr/2025 04:57:57] "[33mPOST /upload_resume HTTP/1.1[0m" 404 -
+2025-04-24 04:59:12,931 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-24 04:59:15,499 - INFO -  * Restarting with stat
+2025-04-24 04:59:33,905 - INFO - Use pytorch device_name: cpu
+2025-04-24 04:59:33,905 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 04:59:38,823 - WARNING -  * Debugger is active!
+2025-04-24 04:59:38,851 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 05:00:04,467 - INFO - 127.0.0.1 - - [24/Apr/2025 05:00:04] "[33mPOST /upload_resume HTTP/1.1[0m" 404 -
+2025-04-24 05:01:04,991 - INFO - Use pytorch device_name: cpu
+2025-04-24 05:01:04,991 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 05:01:09,336 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-24 05:01:09,337 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 05:01:09,343 - INFO -  * Restarting with stat
+2025-04-24 05:01:23,688 - INFO - Use pytorch device_name: cpu
+2025-04-24 05:01:23,688 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 05:01:29,392 - WARNING -  * Debugger is active!
+2025-04-24 05:01:29,395 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 05:04:53,151 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-24 05:04:54,353 - INFO -  * Restarting with stat
+2025-04-24 05:05:17,143 - INFO - Use pytorch device_name: cpu
+2025-04-24 05:05:17,143 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 05:05:21,771 - WARNING -  * Debugger is active!
+2025-04-24 05:05:21,788 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 05:06:13,410 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-24 05:06:14,635 - INFO -  * Restarting with stat
+2025-04-24 05:06:32,254 - INFO - Use pytorch device_name: cpu
+2025-04-24 05:06:32,254 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 05:06:39,435 - WARNING -  * Debugger is active!
+2025-04-24 05:06:39,447 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 05:16:23,672 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-24 05:16:24,850 - INFO -  * Restarting with stat
+2025-04-24 05:16:46,029 - INFO - Use pytorch device_name: cpu
+2025-04-24 05:16:46,029 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 05:16:50,910 - WARNING -  * Debugger is active!
+2025-04-24 05:16:50,934 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 05:19:02,151 - INFO - Use pytorch device_name: cpu
+2025-04-24 05:19:02,151 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 05:19:07,813 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-24 05:19:07,813 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 05:19:07,816 - INFO -  * Restarting with stat
+2025-04-24 05:19:27,008 - INFO - Use pytorch device_name: cpu
+2025-04-24 05:19:27,008 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 05:19:31,525 - WARNING -  * Debugger is active!
+2025-04-24 05:19:31,545 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 05:22:05,266 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-24 05:22:06,699 - INFO -  * Restarting with stat
+2025-04-24 05:22:30,531 - INFO - Use pytorch device_name: cpu
+2025-04-24 05:22:30,531 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 05:22:36,516 - WARNING -  * Debugger is active!
+2025-04-24 05:22:36,537 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 10:01:01,326 - INFO - Use pytorch device_name: cpu
+2025-04-24 10:01:01,326 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 10:02:02,210 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-24 10:02:02,210 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 10:02:02,210 - INFO -  * Restarting with stat
+2025-04-24 10:02:31,745 - INFO - Use pytorch device_name: cpu
+2025-04-24 10:02:31,745 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 10:02:42,898 - WARNING -  * Debugger is active!
+2025-04-24 10:02:42,941 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 10:19:55,108 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-24 10:19:57,012 - INFO -  * Restarting with stat
+2025-04-24 10:20:15,586 - INFO - Use pytorch device_name: cpu
+2025-04-24 10:20:15,586 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 10:20:20,352 - WARNING -  * Debugger is active!
+2025-04-24 10:20:20,367 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 10:21:02,106 - INFO - Extracted entities: {'skills': ['javascript', 'java', 'html', 'c++', 'react', 'css', 'data analysis'], 'experience': [], 'education': ['BAHIR DAR UNIVERSITY\nComputer Science'], 'location': []}
+2025-04-24 10:21:02,226 - INFO - Saved resume: resume (2).pdf
+2025-04-24 10:21:02,237 - INFO - 127.0.0.1 - - [24/Apr/2025 10:21:02] "POST /process_resume HTTP/1.1" 200 -
+2025-04-24 11:33:57,069 - INFO - Use pytorch device_name: cpu
+2025-04-24 11:33:57,069 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 11:34:01,911 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-24 11:34:01,911 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 11:34:01,919 - INFO -  * Restarting with stat
+2025-04-24 11:34:22,987 - INFO - Use pytorch device_name: cpu
+2025-04-24 11:34:22,988 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 11:34:27,323 - WARNING -  * Debugger is active!
+2025-04-24 11:34:27,353 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 11:43:56,643 - INFO - Use pytorch device_name: cpu
+2025-04-24 11:43:56,644 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 11:44:00,965 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-24 11:44:00,965 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 11:44:00,965 - INFO -  * Restarting with stat
+2025-04-24 11:44:19,045 - INFO - Use pytorch device_name: cpu
+2025-04-24 11:44:19,045 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 11:44:48,473 - WARNING -  * Debugger is active!
+2025-04-24 11:44:48,496 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 11:56:43,469 - INFO - Use pytorch device_name: cpu
+2025-04-24 11:56:43,471 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 11:57:51,674 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-24 11:57:51,674 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 11:57:51,683 - INFO -  * Restarting with stat
+2025-04-24 11:58:06,462 - INFO - Use pytorch device_name: cpu
+2025-04-24 11:58:06,462 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 11:59:50,569 - WARNING -  * Debugger is active!
+2025-04-24 11:59:50,600 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 12:03:51,803 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-24 12:03:53,801 - INFO -  * Restarting with stat
+2025-04-24 19:12:33,272 - INFO - Use pytorch device_name: cpu
+2025-04-24 19:12:33,272 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 19:12:38,381 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-24 19:12:38,387 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 19:12:38,392 - INFO -  * Restarting with stat
+2025-04-24 19:13:08,657 - INFO - Use pytorch device_name: cpu
+2025-04-24 19:13:08,657 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 19:13:14,484 - WARNING -  * Debugger is active!
+2025-04-24 19:13:14,495 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 19:19:28,061 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-24 19:19:29,905 - INFO -  * Restarting with stat
+2025-04-24 19:19:48,688 - INFO - Use pytorch device_name: cpu
+2025-04-24 19:19:48,696 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 19:19:54,553 - WARNING -  * Debugger is active!
+2025-04-24 19:19:54,569 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 19:23:49,935 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-24 19:23:51,309 - INFO -  * Restarting with stat
+2025-04-24 19:24:23,494 - INFO - Use pytorch device_name: cpu
+2025-04-24 19:24:23,496 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 19:24:28,599 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-24 19:24:28,599 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 19:24:28,607 - INFO -  * Restarting with stat
+2025-04-24 19:24:42,486 - INFO - Use pytorch device_name: cpu
+2025-04-24 19:24:42,486 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 19:24:46,730 - WARNING -  * Debugger is active!
+2025-04-24 19:24:46,739 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 19:32:09,118 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-24 19:32:10,533 - INFO -  * Restarting with stat
+2025-04-24 19:32:31,739 - INFO - Use pytorch device_name: cpu
+2025-04-24 19:32:31,739 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 19:32:31,969 - INFO - Use pytorch device_name: cpu
+2025-04-24 19:32:31,969 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 19:32:36,723 - WARNING -  * Debugger is active!
+2025-04-24 19:32:36,747 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 19:32:37,695 - WARNING -  * Debugger is active!
+2025-04-24 19:32:37,721 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 19:33:04,438 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-24 19:33:04,477 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-24 19:33:06,430 - INFO -  * Restarting with stat
+2025-04-24 19:33:28,851 - INFO - Use pytorch device_name: cpu
+2025-04-24 19:33:28,851 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 19:33:29,021 - INFO - Use pytorch device_name: cpu
+2025-04-24 19:33:29,021 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 19:33:33,385 - WARNING -  * Debugger is active!
+2025-04-24 19:33:33,398 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 19:33:33,745 - WARNING -  * Debugger is active!
+2025-04-24 19:33:33,765 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 19:34:13,450 - INFO - Extracted entities: {'skills': ['java', 'html', 'css', 'javascript', 'data analysis', 'c++', 'react'], 'experience': [], 'education': ['BAHIR DAR UNIVERSITY\nComputer Science'], 'location': []}
+2025-04-24 19:34:13,552 - ERROR - Data validation error: value too long for type character varying(40)
+
+2025-04-24 19:34:13,552 - INFO - 127.0.0.1 - - [24/Apr/2025 19:34:13] "[35m[1mPOST /process_resume HTTP/1.1[0m" 500 -
+2025-04-24 19:36:39,157 - INFO - Extracted entities: {'skills': ['java', 'css', 'html', 'javascript', 'c++', 'python'], 'experience': [], 'education': ['Bahir Dar University'], 'location': []}
+2025-04-24 19:36:39,189 - ERROR - Data validation error: value too long for type character varying(40)
+
+2025-04-24 19:36:39,189 - INFO - 127.0.0.1 - - [24/Apr/2025 19:36:39] "[35m[1mPOST /process_resume HTTP/1.1[0m" 500 -
+2025-04-24 19:43:06,796 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-24 19:43:09,609 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-24 19:43:11,001 - INFO -  * Restarting with stat
+2025-04-24 19:43:29,711 - INFO - Use pytorch device_name: cpu
+2025-04-24 19:43:29,711 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 19:43:29,891 - INFO - Use pytorch device_name: cpu
+2025-04-24 19:43:29,891 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 19:43:35,086 - WARNING -  * Debugger is active!
+2025-04-24 19:43:35,094 - WARNING -  * Debugger is active!
+2025-04-24 19:43:35,125 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 19:44:46,866 - INFO - File saved temporarily: uploads\resume_2.pdf
+2025-04-24 19:44:46,866 - INFO - Starting resume processing
+2025-04-24 19:44:48,777 - INFO - Extracted entities: {'skills': ['html', 'css', 'c++', 'react', 'data analysis', 'javascript', 'java'], 'experience': [], 'education': ['BAHIR DAR UNIVERSITY\nComputer Science'], 'location': []}
+2025-04-24 19:44:48,777 - INFO - Attempting database save
+2025-04-24 19:44:48,855 - ERROR - Data validation error: value too long for type character varying(40)
+
+2025-04-24 19:44:48,855 - ERROR - Database save failed
+2025-04-24 19:44:48,855 - INFO - 127.0.0.1 - - [24/Apr/2025 19:44:48] "[35m[1mPOST /process_resume HTTP/1.1[0m" 500 -
+2025-04-24 19:49:34,743 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-24 19:49:34,895 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-24 19:49:36,207 - INFO -  * Restarting with stat
+2025-04-24 19:49:54,787 - INFO - Use pytorch device_name: cpu
+2025-04-24 19:49:54,787 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 19:49:54,945 - INFO - Use pytorch device_name: cpu
+2025-04-24 19:49:54,945 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 19:49:59,806 - WARNING -  * Debugger is active!
+2025-04-24 19:49:59,846 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 19:49:59,846 - WARNING -  * Debugger is active!
+2025-04-24 19:49:59,877 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 19:50:25,156 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-24 19:50:25,465 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-24 19:50:26,506 - INFO -  * Restarting with stat
+2025-04-24 19:50:44,227 - INFO - Use pytorch device_name: cpu
+2025-04-24 19:50:44,228 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 19:50:44,339 - INFO - Use pytorch device_name: cpu
+2025-04-24 19:50:44,339 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 19:50:48,727 - WARNING -  * Debugger is active!
+2025-04-24 19:50:48,727 - WARNING -  * Debugger is active!
+2025-04-24 19:50:48,739 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 19:51:20,244 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-24 19:51:20,904 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-24 19:51:22,393 - INFO -  * Restarting with stat
+2025-04-24 19:51:40,114 - INFO - Use pytorch device_name: cpu
+2025-04-24 19:51:40,114 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 19:51:40,697 - INFO - Use pytorch device_name: cpu
+2025-04-24 19:51:40,697 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 19:51:45,338 - WARNING -  * Debugger is active!
+2025-04-24 19:51:45,373 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 19:51:45,399 - WARNING -  * Debugger is active!
+2025-04-24 19:51:45,426 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 19:54:28,471 - INFO - File saved temporarily: uploads\resume_2.pdf
+2025-04-24 19:54:28,473 - INFO - Starting resume processing
+2025-04-24 19:54:30,719 - INFO - Extracted entities: {'skills': ['c++', 'data analysis', 'java', 'html', 'css', 'react', 'javascript'], 'experience': [], 'education': ['BAHIR DAR UNIVERSITY\nComputer Science'], 'location': []}
+2025-04-24 19:54:30,719 - INFO - Attempting database save
+2025-04-24 19:54:30,728 - ERROR - Database error: syntax error at or near "#"
+LINE 4: ...          file_hash VARCHAR(64) UNIQUE NOT NULL,  # Increase...
+                                                             ^
+
+2025-04-24 19:54:30,728 - ERROR - Database save failed
+2025-04-24 19:54:30,758 - INFO - 127.0.0.1 - - [24/Apr/2025 19:54:30] "[35m[1mPOST /process_resume HTTP/1.1[0m" 500 -
+2025-04-24 20:09:45,295 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-24 20:09:45,372 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-24 20:09:50,030 - INFO -  * Restarting with stat
+2025-04-24 20:10:10,137 - INFO - Use pytorch device_name: cpu
+2025-04-24 20:10:10,137 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 20:10:10,366 - INFO - Use pytorch device_name: cpu
+2025-04-24 20:10:10,366 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 20:10:15,096 - WARNING -  * Debugger is active!
+2025-04-24 20:10:15,123 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 20:10:16,653 - WARNING -  * Debugger is active!
+2025-04-24 20:10:16,662 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 20:10:28,622 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-24 20:10:29,935 - INFO -  * Restarting with stat
+2025-04-24 20:10:30,227 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-24 20:10:46,412 - INFO - Use pytorch device_name: cpu
+2025-04-24 20:10:46,412 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 20:10:47,539 - INFO - Use pytorch device_name: cpu
+2025-04-24 20:10:47,539 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 20:10:51,262 - WARNING -  * Debugger is active!
+2025-04-24 20:10:51,298 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 20:10:52,085 - WARNING -  * Debugger is active!
+2025-04-24 20:10:52,100 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 20:12:02,544 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-24 20:12:02,978 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-24 20:12:04,256 - INFO -  * Restarting with stat
+2025-04-24 20:12:26,917 - INFO - Use pytorch device_name: cpu
+2025-04-24 20:12:26,917 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 20:12:26,958 - INFO - Use pytorch device_name: cpu
+2025-04-24 20:12:26,958 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 20:12:32,083 - WARNING -  * Debugger is active!
+2025-04-24 20:12:32,122 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 20:12:32,566 - WARNING -  * Debugger is active!
+2025-04-24 20:12:32,582 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 20:12:35,272 - INFO - File saved temporarily: uploads\resume_2.pdf
+2025-04-24 20:12:35,279 - INFO - Starting resume processing
+2025-04-24 20:12:37,482 - INFO - Extracted entities: {'skills': ['react', 'java', 'css', 'c++', 'data analysis', 'html', 'javascript'], 'experience': [], 'education': ['BAHIR DAR UNIVERSITY\nComputer Science'], 'location': []}
+2025-04-24 20:12:37,482 - INFO - Attempting database save
+2025-04-24 20:12:37,536 - INFO - Saved resume: resume_2.pdf
+2025-04-24 20:12:37,539 - INFO - Temporary file removed
+2025-04-24 20:12:37,539 - INFO - 127.0.0.1 - - [24/Apr/2025 20:12:37] "POST /process_resume HTTP/1.1" 200 -
+2025-04-24 20:12:37,884 - INFO - 127.0.0.1 - - [24/Apr/2025 20:12:37] "[33mGET /match/a99aded99173107b403ee4a1def434a4386579e124f35ca1f52f555cf4475da8 HTTP/1.1[0m" 404 -
+2025-04-24 20:12:38,151 - INFO - 127.0.0.1 - - [24/Apr/2025 20:12:38] "[33mGET /match/a99aded99173107b403ee4a1def434a4386579e124f35ca1f52f555cf4475da8 HTTP/1.1[0m" 404 -
+2025-04-24 20:12:38,199 - INFO - 127.0.0.1 - - [24/Apr/2025 20:12:38] "[33mGET /match/a99aded99173107b403ee4a1def434a4386579e124f35ca1f52f555cf4475da8 HTTP/1.1[0m" 404 -
+2025-04-24 20:13:22,264 - INFO - File saved temporarily: uploads\Beimnet-Demisew-FlowCV-Resume-20231129_1.pdf
+2025-04-24 20:13:22,289 - INFO - Starting resume processing
+2025-04-24 20:13:23,391 - INFO - Extracted entities: {'skills': ['css', 'java', 'python', 'c++', 'html', 'javascript'], 'experience': [], 'education': ['Bahir Dar University'], 'location': []}
+2025-04-24 20:13:23,391 - INFO - Attempting database save
+2025-04-24 20:13:23,397 - INFO - Saved resume: Beimnet-Demisew-FlowCV-Resume-20231129_1.pdf
+2025-04-24 20:13:23,401 - INFO - Temporary file removed
+2025-04-24 20:13:23,405 - INFO - 127.0.0.1 - - [24/Apr/2025 20:13:23] "POST /process_resume HTTP/1.1" 200 -
+2025-04-24 20:13:23,422 - INFO - 127.0.0.1 - - [24/Apr/2025 20:13:23] "[33mGET /match/257b2ef281e9e68d93517b0996f91886ce5fa04770e23901856cf7b10de75d63 HTTP/1.1[0m" 404 -
+2025-04-24 20:13:23,744 - INFO - 127.0.0.1 - - [24/Apr/2025 20:13:23] "[33mGET /match/257b2ef281e9e68d93517b0996f91886ce5fa04770e23901856cf7b10de75d63 HTTP/1.1[0m" 404 -
+2025-04-24 20:19:03,439 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-24 20:19:03,755 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-24 20:19:05,208 - INFO -  * Restarting with stat
+2025-04-24 20:19:40,859 - INFO - Use pytorch device_name: cpu
+2025-04-24 20:19:40,859 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 20:19:45,624 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-24 20:19:45,624 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 20:19:45,627 - INFO -  * Restarting with stat
+2025-04-24 20:19:56,224 - INFO - Use pytorch device_name: cpu
+2025-04-24 20:19:56,224 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 20:20:00,899 - INFO - Use pytorch device_name: cpu
+2025-04-24 20:20:00,904 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 20:20:01,465 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-24 20:20:01,465 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 20:20:01,465 - INFO -  * Restarting with stat
+2025-04-24 20:20:05,453 - WARNING -  * Debugger is active!
+2025-04-24 20:20:05,466 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 20:20:19,194 - INFO - Use pytorch device_name: cpu
+2025-04-24 20:20:19,194 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 20:20:24,294 - WARNING -  * Debugger is active!
+2025-04-24 20:20:24,307 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 20:22:00,724 - INFO - Extracted entities: {'skills': ['html', 'css', 'react', 'javascript', 'java', 'c++', 'data analysis'], 'experience': [], 'education': ['BAHIR DAR UNIVERSITY\nComputer Science'], 'location': []}
+2025-04-24 20:22:00,779 - INFO - Saved resume: resume (2).pdf
+2025-04-24 20:22:00,782 - INFO - 127.0.0.1 - - [24/Apr/2025 20:22:00] "POST /process_resume HTTP/1.1" 200 -
+2025-04-24 20:23:00,194 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-24 20:23:00,263 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-24 20:23:01,780 - INFO -  * Restarting with stat
+2025-04-24 20:23:02,176 - INFO -  * Restarting with stat
+2025-04-24 20:23:28,094 - INFO - Use pytorch device_name: cpu
+2025-04-24 20:23:28,094 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 20:23:28,294 - INFO - Use pytorch device_name: cpu
+2025-04-24 20:23:28,299 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 20:23:33,271 - WARNING -  * Debugger is active!
+2025-04-24 20:23:33,304 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 20:23:33,314 - WARNING -  * Debugger is active!
+2025-04-24 20:23:33,344 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 20:23:37,682 - INFO - Extracted entities: {'skills': ['javascript', 'html', 'python', 'css', 'java', 'c++'], 'experience': [], 'education': ['Bahir Dar University'], 'location': []}
+2025-04-24 20:23:37,707 - INFO - Saved resume: Beimnet-Demisew-FlowCV-Resume-20231129 (1).pdf
+2025-04-24 20:23:37,707 - INFO - 127.0.0.1 - - [24/Apr/2025 20:23:37] "POST /process_resume HTTP/1.1" 200 -
+2025-04-24 20:23:58,871 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-24 20:23:59,369 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\extract.py', reloading
+2025-04-24 20:24:00,434 - INFO -  * Restarting with stat
+2025-04-24 20:24:00,998 - INFO -  * Restarting with stat
+2025-04-24 20:24:16,665 - INFO - Use pytorch device_name: cpu
+2025-04-24 20:24:16,665 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 20:24:17,186 - INFO - Use pytorch device_name: cpu
+2025-04-24 20:24:17,186 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 20:24:21,612 - WARNING -  * Debugger is active!
+2025-04-24 20:24:21,634 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 20:24:21,920 - WARNING -  * Debugger is active!
+2025-04-24 20:24:21,946 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 20:25:30,635 - INFO - Extracted entities: {'skills': ['java', 'data analysis', 'react', 'css', 'c++', 'javascript', 'html'], 'experience': [], 'education': ['BAHIR DAR UNIVERSITY\nComputer Science'], 'location': []}
+2025-04-24 20:25:30,674 - INFO - Saved resume: resume (2).pdf
+2025-04-24 20:25:30,674 - INFO - 127.0.0.1 - - [24/Apr/2025 20:25:30] "POST /process_resume HTTP/1.1" 200 -
+2025-04-24 20:47:40,292 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-24 20:47:40,440 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-24 20:47:41,759 - INFO -  * Restarting with stat
+2025-04-24 20:47:41,803 - INFO -  * Restarting with stat
+2025-04-24 20:48:01,993 - INFO - Use pytorch device_name: cpu
+2025-04-24 20:48:01,993 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 20:48:02,340 - INFO - Use pytorch device_name: cpu
+2025-04-24 20:48:02,340 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 20:48:07,397 - WARNING -  * Debugger is active!
+2025-04-24 20:48:07,397 - WARNING -  * Debugger is active!
+2025-04-24 20:48:07,412 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 20:48:07,421 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 20:51:19,637 - INFO - Use pytorch device_name: cpu
+2025-04-24 20:51:19,637 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 20:51:23,029 - INFO - Use pytorch device_name: cpu
+2025-04-24 20:51:23,029 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 20:51:24,503 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-24 20:51:24,503 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 20:51:24,505 - INFO -  * Restarting with stat
+2025-04-24 20:51:26,943 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-24 20:51:26,943 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 20:51:26,946 - INFO -  * Restarting with stat
+2025-04-24 20:51:48,268 - INFO - Use pytorch device_name: cpu
+2025-04-24 20:51:48,268 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 20:51:48,316 - INFO - Use pytorch device_name: cpu
+2025-04-24 20:51:48,316 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 20:51:53,255 - WARNING -  * Debugger is active!
+2025-04-24 20:51:53,276 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 20:51:54,617 - WARNING -  * Debugger is active!
+2025-04-24 20:51:54,631 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 20:54:36,418 - INFO - File saved temporarily: uploads\resume_2.pdf
+2025-04-24 20:54:36,418 - INFO - Starting resume processing
+2025-04-24 20:54:38,354 - INFO - Extracted entities: {'skills': ['html', 'javascript', 'css', 'react', 'c++', 'data analysis', 'java'], 'experience': [], 'education': ['BAHIR DAR UNIVERSITY\nComputer Science'], 'location': []}
+2025-04-24 20:54:38,355 - INFO - Attempting database save
+2025-04-24 20:54:38,391 - INFO - Saved resume: resume_2.pdf
+2025-04-24 20:54:42,467 - ERROR - Processing failed: HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /match_jobs/a99aded99173107b403ee4a1def434a4386579e124f35ca1f52f555cf4475da8 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002BA99CFFF50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 445, in request
+    self.endheaders()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\http\client.py", line 1298, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\http\client.py", line 1058, in _send_output
+    self.send(msg)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\http\client.py", line 996, in send
+    self.connect()
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000002BA99CFFF50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /match_jobs/a99aded99173107b403ee4a1def434a4386579e124f35ca1f52f555cf4475da8 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002BA99CFFF50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\hp\Desktop\job_matcher\backend\app.py", line 104, in handle_resume
+    matching_response = requests.get(job_matching_url)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /match_jobs/a99aded99173107b403ee4a1def434a4386579e124f35ca1f52f555cf4475da8 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000002BA99CFFF50>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-04-24 20:54:42,491 - INFO - 127.0.0.1 - - [24/Apr/2025 20:54:42] "[35m[1mPOST /process_resume HTTP/1.1[0m" 500 -
+2025-04-24 20:57:02,520 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-24 20:57:03,010 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-24 20:57:04,072 - INFO -  * Restarting with stat
+2025-04-24 20:57:04,392 - INFO -  * Restarting with stat
+2025-04-24 20:57:25,292 - INFO - Use pytorch device_name: cpu
+2025-04-24 20:57:25,293 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 20:57:29,521 - WARNING -  * Debugger is active!
+2025-04-24 20:57:29,532 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 20:57:40,116 - INFO - Use pytorch device_name: cpu
+2025-04-24 20:57:40,120 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 20:57:44,425 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-24 20:57:44,425 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 20:57:44,432 - INFO -  * Restarting with stat
+2025-04-24 20:58:04,200 - INFO - Use pytorch device_name: cpu
+2025-04-24 20:58:04,200 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 20:58:08,815 - WARNING -  * Debugger is active!
+2025-04-24 20:58:08,827 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 21:03:29,302 - INFO - Extracted entities: {'skills': ['c++', 'css', 'java', 'javascript', 'react', 'html', 'data analysis'], 'experience': [], 'education': ['BAHIR DAR UNIVERSITY\nComputer Science'], 'location': []}
+2025-04-24 21:03:29,331 - INFO - Saved resume: resume (2).pdf
+2025-04-24 21:03:29,334 - INFO - 127.0.0.1 - - [24/Apr/2025 21:03:29] "POST /process_resume HTTP/1.1" 200 -
+2025-04-24 21:05:51,008 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-24 21:05:51,057 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-24 21:05:52,753 - INFO -  * Restarting with stat
+2025-04-24 21:05:52,756 - INFO -  * Restarting with stat
+2025-04-24 21:06:05,138 - INFO - Use pytorch device_name: cpu
+2025-04-24 21:06:05,138 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 21:06:05,148 - INFO - Use pytorch device_name: cpu
+2025-04-24 21:06:05,148 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 21:06:09,821 - WARNING -  * Debugger is active!
+2025-04-24 21:06:09,838 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 21:06:09,987 - WARNING -  * Debugger is active!
+2025-04-24 21:06:09,994 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 21:08:43,750 - INFO - Extracted entities: {'skills': ['html', 'python', 'java', 'css', 'javascript', 'c++'], 'experience': [], 'education': ['Bahir Dar University'], 'location': []}
+2025-04-24 21:08:43,761 - INFO - Saved resume: Beimnet-Demisew-FlowCV-Resume-20231129 (1).pdf
+2025-04-24 21:08:43,763 - INFO - 127.0.0.1 - - [24/Apr/2025 21:08:43] "POST /process_resume HTTP/1.1" 200 -
+2025-04-24 21:10:33,257 - INFO - Extracted entities: {'skills': ['html', 'react', 'java', 'data analysis', 'javascript', 'css', 'c++'], 'experience': [], 'education': ['BAHIR DAR UNIVERSITY\nComputer Science'], 'location': []}
+2025-04-24 21:10:33,281 - INFO - Saved resume: resume (2).pdf
+2025-04-24 21:10:33,282 - INFO - 127.0.0.1 - - [24/Apr/2025 21:10:33] "POST /process_resume HTTP/1.1" 200 -
+2025-04-24 21:11:14,867 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-24 21:11:14,892 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-24 21:11:16,152 - INFO -  * Restarting with stat
+2025-04-24 21:11:16,183 - INFO -  * Restarting with stat
+2025-04-24 21:11:27,114 - INFO - Use pytorch device_name: cpu
+2025-04-24 21:11:27,114 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 21:11:27,132 - INFO - Use pytorch device_name: cpu
+2025-04-24 21:11:27,134 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 21:11:43,247 - WARNING -  * Debugger is active!
+2025-04-24 21:11:43,258 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 21:11:43,340 - WARNING -  * Debugger is active!
+2025-04-24 21:11:43,350 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 21:12:58,386 - INFO - Extracted entities: {'skills': ['css', 'java', 'javascript', 'html', 'python', 'c++'], 'experience': [], 'education': ['Bahir Dar University'], 'location': []}
+2025-04-24 21:12:58,398 - INFO - Saved resume: Beimnet-Demisew-FlowCV-Resume-20231129 (1).pdf
+2025-04-24 21:12:58,401 - INFO - 127.0.0.1 - - [24/Apr/2025 21:12:58] "POST /process_resume HTTP/1.1" 200 -
+2025-04-24 21:38:02,149 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-24 21:38:02,236 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-24 21:38:05,531 - INFO -  * Restarting with stat
+2025-04-24 21:38:05,553 - INFO -  * Restarting with stat
+2025-04-24 21:38:18,043 - INFO - Use pytorch device_name: cpu
+2025-04-24 21:38:18,044 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 21:38:18,085 - INFO - Use pytorch device_name: cpu
+2025-04-24 21:38:18,086 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 21:39:16,794 - WARNING -  * Debugger is active!
+2025-04-24 21:39:16,809 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 21:45:47,735 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-24 21:45:48,773 - INFO -  * Restarting with stat
+2025-04-24 21:45:58,897 - INFO - Use pytorch device_name: cpu
+2025-04-24 21:45:58,897 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 21:46:05,824 - INFO - Use pytorch device_name: cpu
+2025-04-24 21:46:05,825 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 21:46:32,815 - WARNING -  * Debugger is active!
+2025-04-24 21:46:32,829 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 21:48:10,843 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\job_matcher_api.py', reloading
+2025-04-24 21:48:11,884 - INFO -  * Restarting with stat
+2025-04-24 21:48:19,900 - INFO - Use pytorch device_name: cpu
+2025-04-24 21:48:19,902 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 21:48:41,033 - WARNING -  * Debugger is active!
+2025-04-24 21:48:41,041 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 21:50:07,906 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-24 21:50:08,905 - INFO -  * Restarting with stat
+2025-04-24 21:50:16,584 - INFO - Use pytorch device_name: cpu
+2025-04-24 21:50:16,584 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 21:50:20,427 - INFO - Use pytorch device_name: cpu
+2025-04-24 21:50:20,427 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 21:50:51,223 - WARNING -  * Debugger is active!
+2025-04-24 21:50:51,223 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 22:37:10,516 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\job_matching.py', reloading
+2025-04-24 22:37:12,375 - INFO -  * Restarting with stat
+2025-04-24 22:37:34,506 - INFO - Use pytorch device_name: cpu
+2025-04-24 22:37:34,506 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 22:38:03,168 - WARNING -  * Debugger is active!
+2025-04-24 22:38:03,201 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 22:38:16,613 - INFO - Use pytorch device_name: cpu
+2025-04-24 22:38:16,613 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 22:38:27,275 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-24 22:38:27,275 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-24 22:38:27,277 - INFO -  * Restarting with stat
+2025-04-24 22:38:39,178 - INFO - Use pytorch device_name: cpu
+2025-04-24 22:38:39,178 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 22:38:50,953 - WARNING -  * Debugger is active!
+2025-04-24 22:38:50,953 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 22:40:47,871 - INFO - Extracted entities: {'skills': ['css', 'html', 'c++', 'javascript', 'react', 'java', 'data analysis'], 'experience': [], 'education': ['BAHIR DAR UNIVERSITY\nComputer Science'], 'location': []}
+2025-04-24 22:40:47,925 - INFO - Saved resume: resume (2).pdf
+2025-04-24 22:40:47,931 - INFO - 127.0.0.1 - - [24/Apr/2025 22:40:47] "POST /process_resume HTTP/1.1" 200 -
+2025-04-24 23:57:35,904 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-24 23:57:38,551 - INFO -  * Restarting with stat
+2025-04-24 23:57:38,650 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-24 23:57:42,661 - INFO -  * Restarting with stat
+2025-04-24 23:58:01,563 - INFO - Use pytorch device_name: cpu
+2025-04-24 23:58:01,564 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 23:58:02,534 - INFO - Use pytorch device_name: cpu
+2025-04-24 23:58:02,536 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-24 23:58:15,819 - WARNING -  * Debugger is active!
+2025-04-24 23:58:15,853 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 23:58:17,876 - WARNING -  * Debugger is active!
+2025-04-24 23:58:17,894 - INFO -  * Debugger PIN: 112-687-227
+2025-04-24 23:59:27,867 - INFO - Extracted entities: {'skills': ['javascript', 'html', 'c++', 'java', 'css', 'python'], 'experience': [], 'education': ['Bahir Dar University'], 'location': []}
+2025-04-24 23:59:27,880 - INFO - Saved resume: Beimnet-Demisew-FlowCV-Resume-20231129 (1).pdf
+2025-04-24 23:59:27,896 - INFO - 127.0.0.1 - - [24/Apr/2025 23:59:27] "POST /process_resume HTTP/1.1" 200 -
+2025-04-25 00:20:49,466 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-25 00:20:49,565 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-25 00:20:53,396 - INFO -  * Restarting with stat
+2025-04-25 00:20:53,449 - INFO -  * Restarting with stat
+2025-04-25 00:21:18,303 - INFO - Use pytorch device_name: cpu
+2025-04-25 00:21:18,303 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 00:21:18,318 - INFO - Use pytorch device_name: cpu
+2025-04-25 00:21:18,318 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 00:21:26,521 - WARNING -  * Debugger is active!
+2025-04-25 00:21:26,548 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 00:21:27,738 - WARNING -  * Debugger is active!
+2025-04-25 00:21:27,755 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 00:25:09,931 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-25 00:25:10,395 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-25 00:25:11,697 - INFO -  * Restarting with stat
+2025-04-25 00:25:11,988 - INFO -  * Restarting with stat
+2025-04-25 00:25:37,226 - INFO - Use pytorch device_name: cpu
+2025-04-25 00:25:37,242 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 00:26:07,370 - WARNING -  * Debugger is active!
+2025-04-25 00:26:07,393 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 00:26:17,832 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-25 00:26:19,174 - INFO -  * Restarting with stat
+2025-04-25 00:26:39,488 - INFO - Use pytorch device_name: cpu
+2025-04-25 00:26:39,488 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 00:26:58,552 - INFO - Use pytorch device_name: cpu
+2025-04-25 00:26:58,552 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 00:27:20,846 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-25 00:27:20,853 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-25 00:27:20,860 - INFO -  * Restarting with stat
+2025-04-25 00:27:42,668 - INFO - Use pytorch device_name: cpu
+2025-04-25 00:27:42,668 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 00:28:05,567 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-25 00:28:05,567 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-25 00:28:05,571 - INFO -  * Restarting with stat
+2025-04-25 00:28:39,694 - INFO - Use pytorch device_name: cpu
+2025-04-25 00:28:39,694 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 00:28:55,577 - WARNING -  * Debugger is active!
+2025-04-25 00:28:55,593 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 00:29:41,337 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-25 00:29:41,338 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-25 00:29:41,340 - INFO -  * Restarting with stat
+2025-04-25 00:29:52,407 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\app.py', reloading
+2025-04-25 00:29:53,848 - INFO -  * Restarting with stat
+2025-04-25 00:29:59,635 - INFO - Use pytorch device_name: cpu
+2025-04-25 00:29:59,635 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 00:30:08,506 - INFO - Use pytorch device_name: cpu
+2025-04-25 00:30:08,506 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 00:30:56,693 - WARNING -  * Debugger is active!
+2025-04-25 00:30:56,726 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 00:31:00,419 - WARNING -  * Debugger is active!
+2025-04-25 00:31:00,443 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 00:31:51,098 - INFO - File saved temporarily: uploads\resume_2.pdf
+2025-04-25 00:31:51,098 - INFO - Generated file hash: a99aded99173107b403ee4a1def434a4386579e124f35ca1f52f555cf4475da8
+2025-04-25 00:31:51,098 - INFO - Starting resume processing
+2025-04-25 00:31:53,029 - INFO - Extracted entities: {'skills': ['css', 'react', 'html', 'java', 'javascript', 'data analysis', 'c++'], 'experience': [], 'education': ['BAHIR DAR UNIVERSITY\nComputer Science'], 'location': []}
+2025-04-25 00:31:53,029 - INFO - Attempting database save
+2025-04-25 00:31:53,047 - INFO - Saved resume: resume_2.pdf
+2025-04-25 00:31:57,094 - ERROR - Processing failed: HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /match_jobs/a99aded99173107b403ee4a1def434a4386579e124f35ca1f52f555cf4475da8 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001870B71E510>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 445, in request
+    self.endheaders()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\http\client.py", line 1298, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\http\client.py", line 1058, in _send_output
+    self.send(msg)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\http\client.py", line 996, in send
+    self.connect()
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000001870B71E510>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /match_jobs/a99aded99173107b403ee4a1def434a4386579e124f35ca1f52f555cf4475da8 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001870B71E510>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\hp\Desktop\job_matcher\backend\app.py", line 100, in handle_resume
+    matching_response = requests.get(job_matching_url)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /match_jobs/a99aded99173107b403ee4a1def434a4386579e124f35ca1f52f555cf4475da8 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001870B71E510>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-04-25 00:31:57,109 - INFO - 127.0.0.1 - - [25/Apr/2025 00:31:57] "[35m[1mPOST /process_resume HTTP/1.1[0m" 500 -
+2025-04-25 00:32:45,658 - INFO - File saved temporarily: uploads\resume_2.pdf
+2025-04-25 00:32:45,658 - INFO - Generated file hash: a99aded99173107b403ee4a1def434a4386579e124f35ca1f52f555cf4475da8
+2025-04-25 00:32:45,658 - INFO - Starting resume processing
+2025-04-25 00:32:47,183 - INFO - Extracted entities: {'skills': ['css', 'react', 'html', 'java', 'javascript', 'data analysis', 'c++'], 'experience': [], 'education': ['BAHIR DAR UNIVERSITY\nComputer Science'], 'location': []}
+2025-04-25 00:32:47,183 - INFO - Attempting database save
+2025-04-25 00:32:47,246 - INFO - Saved resume: resume_2.pdf
+2025-04-25 00:32:51,305 - ERROR - Processing failed: HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /match_jobs/a99aded99173107b403ee4a1def434a4386579e124f35ca1f52f555cf4475da8 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001870A4DCD90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 445, in request
+    self.endheaders()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\http\client.py", line 1298, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\http\client.py", line 1058, in _send_output
+    self.send(msg)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\http\client.py", line 996, in send
+    self.connect()
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000001870A4DCD90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /match_jobs/a99aded99173107b403ee4a1def434a4386579e124f35ca1f52f555cf4475da8 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001870A4DCD90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\hp\Desktop\job_matcher\backend\app.py", line 100, in handle_resume
+    matching_response = requests.get(job_matching_url)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /match_jobs/a99aded99173107b403ee4a1def434a4386579e124f35ca1f52f555cf4475da8 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001870A4DCD90>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-04-25 00:32:51,319 - INFO - 127.0.0.1 - - [25/Apr/2025 00:32:51] "[35m[1mPOST /process_resume HTTP/1.1[0m" 500 -
+2025-04-25 00:33:47,948 - INFO - File saved temporarily: uploads\resume_2.pdf
+2025-04-25 00:33:47,948 - INFO - Generated file hash: a99aded99173107b403ee4a1def434a4386579e124f35ca1f52f555cf4475da8
+2025-04-25 00:33:47,948 - INFO - Starting resume processing
+2025-04-25 00:33:49,447 - INFO - Extracted entities: {'skills': ['css', 'react', 'html', 'java', 'javascript', 'data analysis', 'c++'], 'experience': [], 'education': ['BAHIR DAR UNIVERSITY\nComputer Science'], 'location': []}
+2025-04-25 00:33:49,447 - INFO - Attempting database save
+2025-04-25 00:33:49,474 - INFO - Saved resume: resume_2.pdf
+2025-04-25 00:33:53,529 - ERROR - Processing failed: HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /match_jobs/a99aded99173107b403ee4a1def434a4386579e124f35ca1f52f555cf4475da8 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001870919DD10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 445, in request
+    self.endheaders()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\http\client.py", line 1298, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\http\client.py", line 1058, in _send_output
+    self.send(msg)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\http\client.py", line 996, in send
+    self.connect()
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x000001870919DD10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /match_jobs/a99aded99173107b403ee4a1def434a4386579e124f35ca1f52f555cf4475da8 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001870919DD10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\hp\Desktop\job_matcher\backend\app.py", line 100, in handle_resume
+    matching_response = requests.get(job_matching_url)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /match_jobs/a99aded99173107b403ee4a1def434a4386579e124f35ca1f52f555cf4475da8 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001870919DD10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-04-25 00:33:53,529 - INFO - 127.0.0.1 - - [25/Apr/2025 00:33:53] "[35m[1mPOST /process_resume HTTP/1.1[0m" 500 -
+2025-04-25 06:30:30,174 - INFO - Use pytorch device_name: cpu
+2025-04-25 06:30:30,174 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 06:30:35,013 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-25 06:30:35,013 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-25 06:30:35,016 - INFO -  * Restarting with stat
+2025-04-25 06:30:38,061 - INFO - Use pytorch device_name: cpu
+2025-04-25 06:30:38,061 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 06:30:42,053 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-25 06:30:42,053 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-25 06:30:42,054 - INFO -  * Restarting with stat
+2025-04-25 06:30:48,673 - INFO - Use pytorch device_name: cpu
+2025-04-25 06:30:48,673 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 06:30:53,987 - WARNING -  * Debugger is active!
+2025-04-25 06:30:53,987 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 06:30:54,491 - INFO - Use pytorch device_name: cpu
+2025-04-25 06:30:54,491 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 06:30:59,400 - WARNING -  * Debugger is active!
+2025-04-25 06:30:59,414 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 06:31:17,923 - INFO - Extracted entities: {'skills': ['javascript', 'c++', 'python', 'css', 'java', 'html'], 'experience': [], 'education': ['Bahir Dar University'], 'location': []}
+2025-04-25 06:31:17,970 - INFO - Saved resume: Beimnet-Demisew-FlowCV-Resume-20231129 (1).pdf
+2025-04-25 06:31:17,970 - INFO - 127.0.0.1 - - [25/Apr/2025 06:31:17] "POST /process_resume HTTP/1.1" 200 -
+2025-04-25 06:40:45,603 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\get_entities.py', reloading
+2025-04-25 06:40:45,879 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\get_entities.py', reloading
+2025-04-25 06:40:47,487 - INFO -  * Restarting with stat
+2025-04-25 06:40:47,858 - INFO -  * Restarting with stat
+2025-04-25 06:41:07,029 - INFO - Use pytorch device_name: cpu
+2025-04-25 06:41:07,029 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 06:41:07,029 - INFO - Use pytorch device_name: cpu
+2025-04-25 06:41:07,029 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 06:41:12,090 - WARNING -  * Debugger is active!
+2025-04-25 06:41:12,120 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 06:41:12,257 - WARNING -  * Debugger is active!
+2025-04-25 06:41:12,275 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 06:42:23,506 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\get_entities.py', reloading
+2025-04-25 06:42:23,960 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\get_entities.py', reloading
+2025-04-25 06:42:24,831 - INFO -  * Restarting with stat
+2025-04-25 06:42:25,193 - INFO -  * Restarting with stat
+2025-04-25 06:42:37,152 - INFO - Use pytorch device_name: cpu
+2025-04-25 06:42:37,152 - INFO - Use pytorch device_name: cpu
+2025-04-25 06:42:37,152 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 06:42:37,152 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 06:42:51,723 - WARNING -  * Debugger is active!
+2025-04-25 06:42:51,734 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 06:43:04,345 - WARNING -  * Debugger is active!
+2025-04-25 06:43:04,345 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 06:58:28,715 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\get_entities.py', reloading
+2025-04-25 06:58:28,779 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\get_entities.py', reloading
+2025-04-25 06:58:29,862 - INFO -  * Restarting with stat
+2025-04-25 06:58:29,883 - INFO -  * Restarting with stat
+2025-04-25 06:58:39,184 - INFO - Use pytorch device_name: cpu
+2025-04-25 06:58:39,184 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 06:58:39,213 - INFO - Use pytorch device_name: cpu
+2025-04-25 06:58:39,213 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 06:58:45,658 - WARNING -  * Debugger is active!
+2025-04-25 06:58:45,664 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 06:58:46,875 - WARNING -  * Debugger is active!
+2025-04-25 06:58:46,875 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 07:02:13,963 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\job_matching.py', reloading
+2025-04-25 07:02:15,086 - INFO -  * Restarting with stat
+2025-04-25 07:02:15,826 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\job_matching.py', reloading
+2025-04-25 07:02:16,650 - INFO -  * Restarting with stat
+2025-04-25 07:02:24,764 - INFO - Use pytorch device_name: cpu
+2025-04-25 07:02:24,764 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 07:02:24,883 - INFO - Use pytorch device_name: cpu
+2025-04-25 07:02:24,883 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 07:02:29,458 - WARNING -  * Debugger is active!
+2025-04-25 07:02:29,458 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 07:02:30,618 - WARNING -  * Debugger is active!
+2025-04-25 07:02:30,618 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 07:11:06,054 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\upload_process.py', reloading
+2025-04-25 07:11:06,108 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\upload_process.py', reloading
+2025-04-25 07:11:07,719 - INFO -  * Restarting with stat
+2025-04-25 07:11:07,858 - INFO -  * Restarting with stat
+2025-04-25 07:11:21,706 - INFO - Use pytorch device_name: cpu
+2025-04-25 07:11:21,706 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 07:11:21,879 - INFO - Use pytorch device_name: cpu
+2025-04-25 07:11:21,879 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 07:11:29,342 - WARNING -  * Debugger is active!
+2025-04-25 07:11:29,353 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 07:11:32,254 - WARNING -  * Debugger is active!
+2025-04-25 07:11:32,267 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 07:15:19,899 - INFO - Extracted entities: {'skills': ['css', 'java', 'javascript', 'html', 'react', 'c++', 'data analysis'], 'experience': [], 'education': ['BAHIR DAR UNIVERSITY\nComputer Science'], 'location': []}
+2025-04-25 07:15:19,919 - INFO - Saved resume: resume (2).pdf
+2025-04-25 07:15:19,930 - INFO - 127.0.0.1 - - [25/Apr/2025 07:15:19] "POST /process_resume HTTP/1.1" 200 -
+2025-04-25 07:27:45,018 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\upload_process.py', reloading
+2025-04-25 07:27:45,916 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\upload_process.py', reloading
+2025-04-25 07:27:49,289 - INFO -  * Restarting with stat
+2025-04-25 07:27:49,913 - INFO -  * Restarting with stat
+2025-04-25 07:28:03,353 - INFO - Use pytorch device_name: cpu
+2025-04-25 07:28:03,353 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 07:28:03,512 - INFO - Use pytorch device_name: cpu
+2025-04-25 07:28:03,512 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 07:28:10,780 - WARNING -  * Debugger is active!
+2025-04-25 07:28:10,787 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 07:28:13,342 - WARNING -  * Debugger is active!
+2025-04-25 07:28:13,354 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 07:28:20,125 - INFO - Use pytorch device_name: cpu
+2025-04-25 07:28:20,125 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 07:28:32,889 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-25 07:28:32,903 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-25 07:28:32,903 - INFO -  * Restarting with stat
+2025-04-25 07:28:44,795 - INFO - Use pytorch device_name: cpu
+2025-04-25 07:28:44,795 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 07:28:48,635 - WARNING -  * Debugger is active!
+2025-04-25 07:28:48,659 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 07:32:50,435 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\upload_process.py', reloading
+2025-04-25 07:32:50,509 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\upload_process.py', reloading
+2025-04-25 07:32:51,604 - INFO -  * Restarting with stat
+2025-04-25 07:32:51,620 - INFO -  * Restarting with stat
+2025-04-25 07:32:52,591 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\upload_process.py', reloading
+2025-04-25 07:32:53,846 - INFO -  * Restarting with stat
+2025-04-25 07:33:06,042 - INFO - Use pytorch device_name: cpu
+2025-04-25 07:33:06,042 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 07:33:06,263 - INFO - Use pytorch device_name: cpu
+2025-04-25 07:33:06,263 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 07:33:07,298 - INFO - Use pytorch device_name: cpu
+2025-04-25 07:33:07,298 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 07:33:10,331 - WARNING -  * Debugger is active!
+2025-04-25 07:33:10,340 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 07:33:11,980 - WARNING -  * Debugger is active!
+2025-04-25 07:33:11,992 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 07:33:14,133 - WARNING -  * Debugger is active!
+2025-04-25 07:33:14,142 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 07:39:37,046 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\upload_process.py', reloading
+2025-04-25 07:39:37,822 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\upload_process.py', reloading
+2025-04-25 07:39:38,646 - INFO -  * Restarting with stat
+2025-04-25 07:39:38,696 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\upload_process.py', reloading
+2025-04-25 07:39:40,008 - INFO -  * Restarting with stat
+2025-04-25 07:39:40,911 - INFO -  * Restarting with stat
+2025-04-25 07:39:54,770 - INFO - Use pytorch device_name: cpu
+2025-04-25 07:39:54,770 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 07:39:54,808 - INFO - Use pytorch device_name: cpu
+2025-04-25 07:39:54,910 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 07:39:54,910 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 07:40:07,932 - WARNING -  * Debugger is active!
+2025-04-25 07:40:07,935 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 07:40:08,930 - WARNING -  * Debugger is active!
+2025-04-25 07:40:08,935 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 07:40:18,393 - WARNING -  * Debugger is active!
+2025-04-25 07:40:18,405 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 07:44:24,997 - INFO - 127.0.0.1 - - [25/Apr/2025 07:44:24] "[33mPOST /upload_and_match HTTP/1.1[0m" 404 -
+2025-04-25 07:57:32,601 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\upload_process.py', reloading
+2025-04-25 07:57:32,688 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\upload_process.py', reloading
+2025-04-25 07:57:33,105 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\upload_process.py', reloading
+2025-04-25 07:57:35,735 - INFO -  * Restarting with stat
+2025-04-25 07:57:35,753 - INFO -  * Restarting with stat
+2025-04-25 07:57:36,245 - INFO -  * Restarting with stat
+2025-04-25 07:58:00,194 - INFO - Use pytorch device_name: cpu
+2025-04-25 07:58:00,194 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 07:58:00,274 - INFO - Use pytorch device_name: cpu
+2025-04-25 07:58:00,274 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 07:58:05,030 - WARNING -  * Debugger is active!
+2025-04-25 07:58:05,045 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 07:58:05,045 - WARNING -  * Debugger is active!
+2025-04-25 07:58:05,065 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 07:58:49,279 - INFO - 127.0.0.1 - - [25/Apr/2025 07:58:49] "[33mPOST /upload_and_match HTTP/1.1[0m" 404 -
+2025-04-25 08:01:00,808 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\upload_process.py', reloading
+2025-04-25 08:01:01,031 - INFO -  * Detected change in 'C:\\Users\\hp\\Desktop\\job_matcher\\backend\\upload_process.py', reloading
+2025-04-25 08:01:02,579 - INFO -  * Restarting with stat
+2025-04-25 08:01:02,783 - INFO -  * Restarting with stat
+2025-04-25 08:01:20,651 - INFO - Use pytorch device_name: cpu
+2025-04-25 08:01:20,659 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 08:01:20,675 - INFO - Use pytorch device_name: cpu
+2025-04-25 08:01:20,675 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 08:01:25,548 - WARNING -  * Debugger is active!
+2025-04-25 08:01:25,557 - WARNING -  * Debugger is active!
+2025-04-25 08:01:25,571 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 08:01:25,571 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 08:24:04,344 - INFO - Use pytorch device_name: cpu
+2025-04-25 08:24:04,346 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 08:25:06,769 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-25 08:25:06,770 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-25 08:25:06,779 - INFO -  * Restarting with stat
+2025-04-25 08:25:29,391 - INFO - Use pytorch device_name: cpu
+2025-04-25 08:25:29,392 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 08:25:38,287 - WARNING -  * Debugger is active!
+2025-04-25 08:25:38,337 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 08:26:18,817 - INFO - Use pytorch device_name: cpu
+2025-04-25 08:26:18,817 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 08:26:31,524 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-04-25 08:26:31,525 - INFO - [33mPress CTRL+C to quit[0m
+2025-04-25 08:26:31,525 - INFO -  * Restarting with stat
+2025-04-25 08:26:49,648 - INFO - Use pytorch device_name: cpu
+2025-04-25 08:26:49,648 - INFO - Load pretrained SentenceTransformer: all-MiniLM-L6-v2
+2025-04-25 08:26:58,318 - WARNING -  * Debugger is active!
+2025-04-25 08:26:58,334 - INFO -  * Debugger PIN: 112-687-227
+2025-04-25 08:27:21,013 - INFO - File saved temporarily: uploads\resume_2.pdf
+2025-04-25 08:27:21,013 - INFO - Generated file hash: a99aded99173107b403ee4a1def434a4386579e124f35ca1f52f555cf4475da8
+2025-04-25 08:27:21,013 - INFO - Starting resume processing
+2025-04-25 08:27:23,105 - INFO - Extracted entities: {'skills': ['react', 'html', 'data analysis', 'css', 'java', 'c++', 'javascript'], 'experience': [], 'education': ['BAHIR DAR UNIVERSITY\nComputer Science'], 'location': []}
+2025-04-25 08:27:23,105 - INFO - Attempting database save
+2025-04-25 08:27:23,175 - INFO - Saved resume: resume_2.pdf
+2025-04-25 08:27:27,231 - ERROR - Processing failed: HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /match_jobs/a99aded99173107b403ee4a1def434a4386579e124f35ca1f52f555cf4475da8 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015A00C25C10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 445, in request
+    self.endheaders()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\http\client.py", line 1298, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\http\client.py", line 1058, in _send_output
+    self.send(msg)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\http\client.py", line 996, in send
+    self.connect()
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000015A00C25C10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /match_jobs/a99aded99173107b403ee4a1def434a4386579e124f35ca1f52f555cf4475da8 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015A00C25C10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\hp\Desktop\job_matcher\backend\app.py", line 100, in handle_resume
+    matching_response = requests.get(job_matching_url)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /match_jobs/a99aded99173107b403ee4a1def434a4386579e124f35ca1f52f555cf4475da8 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015A00C25C10>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-04-25 08:27:27,248 - INFO - 127.0.0.1 - - [25/Apr/2025 08:27:27] "[35m[1mPOST /process_resume HTTP/1.1[0m" 500 -
+2025-04-25 08:35:45,991 - INFO - File saved temporarily: uploads\Beimnet-Demisew-FlowCV-Resume-20231129_1.pdf
+2025-04-25 08:35:46,012 - INFO - Generated file hash: 257b2ef281e9e68d93517b0996f91886ce5fa04770e23901856cf7b10de75d63
+2025-04-25 08:35:46,015 - INFO - Starting resume processing
+2025-04-25 08:35:47,160 - INFO - Extracted entities: {'skills': ['python', 'html', 'css', 'java', 'c++', 'javascript'], 'experience': [], 'education': ['Bahir Dar University'], 'location': []}
+2025-04-25 08:35:47,175 - INFO - Attempting database save
+2025-04-25 08:35:47,178 - INFO - Saved resume: Beimnet-Demisew-FlowCV-Resume-20231129_1.pdf
+2025-04-25 08:35:51,215 - ERROR - Processing failed: HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /match_jobs/257b2ef281e9e68d93517b0996f91886ce5fa04770e23901856cf7b10de75d63 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015A00C26310>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 198, in _new_conn
+    sock = connection.create_connection(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\connection.py", line 85, in create_connection
+    raise err
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\connection.py", line 73, in create_connection
+    sock.connect(sa)
+ConnectionRefusedError: [WinError 10061] No connection could be made because the target machine actively refused it
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 787, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 493, in _make_request
+    conn.request(
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 445, in request
+    self.endheaders()
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\http\client.py", line 1298, in endheaders
+    self._send_output(message_body, encode_chunked=encode_chunked)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\http\client.py", line 1058, in _send_output
+    self.send(msg)
+  File "C:\Program Files\WindowsApps\PythonSoftwareFoundation.Python.3.11_3.11.2544.0_x64__qbz5n2kfra8p0\Lib\http\client.py", line 996, in send
+    self.connect()
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 276, in connect
+    self.sock = self._new_conn()
+                ^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connection.py", line 213, in _new_conn
+    raise NewConnectionError(
+urllib3.exceptions.NewConnectionError: <urllib3.connection.HTTPConnection object at 0x0000015A00C26310>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\adapters.py", line 667, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\connectionpool.py", line 841, in urlopen
+    retries = retries.increment(
+              ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\urllib3\util\retry.py", line 519, in increment
+    raise MaxRetryError(_pool, url, reason) from reason  # type: ignore[arg-type]
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+urllib3.exceptions.MaxRetryError: HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /match_jobs/257b2ef281e9e68d93517b0996f91886ce5fa04770e23901856cf7b10de75d63 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015A00C26310>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "C:\Users\hp\Desktop\job_matcher\backend\app.py", line 100, in handle_resume
+    matching_response = requests.get(job_matching_url)
+                        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\api.py", line 73, in get
+    return request("get", url, params=params, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\api.py", line 59, in request
+    return session.request(method=method, url=url, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\hp\AppData\Local\Packages\PythonSoftwareFoundation.Python.3.11_qbz5n2kfra8p0\LocalCache\local-packages\Python311\site-packages\requests\adapters.py", line 700, in send
+    raise ConnectionError(e, request=request)
+requests.exceptions.ConnectionError: HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /match_jobs/257b2ef281e9e68d93517b0996f91886ce5fa04770e23901856cf7b10de75d63 (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x0000015A00C26310>: Failed to establish a new connection: [WinError 10061] No connection could be made because the target machine actively refused it'))
+2025-04-25 08:35:51,231 - INFO - 127.0.0.1 - - [25/Apr/2025 08:35:51] "[35m[1mPOST /process_resume HTTP/1.1[0m" 500 -

@@ -1,0 +1,51 @@
+.upload-container {
+  max-width: 600px;
+  margin: 3rem auto;
+  padding: 2rem;
+  border: 1px solid #ddd;
+  border-radius: 12px;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+  background-color: #ffffff;
+  font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.upload-container h2 {
+  text-align: center;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+.upload-container input[type="file"] {
+  display: block;
+  margin: 1rem auto;
+}
+
+.upload-container button {
+  display: block;
+  margin: 1rem auto;
+  padding: 10px 20px;
+  font-size: 1rem;
+  background-color: #007bff;
+  color: white;
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  transition: background-color 0.3s;
+}
+
+.upload-container button:hover {
+  background-color: #0056b3;
+}
+
+.job-card {
+  border: 1px solid #eee;
+  border-radius: 10px;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  background-color: #f9f9f9;
+}
+
+.job-card h4 {
+  margin-top: 0;
+  color: #2c3e50;
+}
